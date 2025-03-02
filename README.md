@@ -51,7 +51,7 @@
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anjalivijayan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anjali-vijayan-14377a195/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/anjalivijayan23)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/anjalivijayan)  
 
@@ -60,7 +60,7 @@
 ### 🚀 Fun Facts About Me  
 🎯 I love working on **real-world datasets**  
 📊 I enjoy **storytelling with data**  
-🎮 When I'm not analyzing data, you’ll find me **playing chess or gaming**  
+🧠 When I'm not analyzing data, you’ll find me **learning and blogging**  
 
 ---
 
